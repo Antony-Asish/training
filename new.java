@@ -1,9 +1,9 @@
-class new
+public class new
 {
     public static void main(String[] Args)
     {
-        int a=9;
+        int a=20;
         int c=a;
-        System.ou.println(c);
+        System.out.println(c);
     }
 }
