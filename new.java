@@ -6,4 +6,6 @@ public class new
         int c=a;
         System.out.println(c);
     }
+
 }
+check how add workinh
